@@ -1,0 +1,17 @@
+/* Inserta tu CSS aqui */
+div{
+	height: 100px;
+	width: 100px;
+	background: grey;
+	border: 1px black solid;
+	margin: 10px;
+}
+#fila2{
+	width: 370px;
+	height: 120px;
+}
+.caja{
+ 	display: inline-block;
+ 	margin-right: 5px; 
+}
+
